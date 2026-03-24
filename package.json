@@ -1,6 +1,6 @@
 {
-  "name": "Vechile-backend",
-  "version": "1.0.0",
+  "name": "autograb-vechile-backend",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
